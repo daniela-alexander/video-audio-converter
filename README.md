@@ -53,6 +53,7 @@ Sigue estos sencillos pasos para poner en marcha el proyecto:
 ### 1. Clonar el repositorio
 
 git clone https://github.com/daniela-alexander/video-audio-converter
+
 cd video-audio-converter
 
 ### 2. Iniciar el Backend (Servidor Express)
