@@ -52,8 +52,8 @@ Sigue estos sencillos pasos para poner en marcha el proyecto:
 
 ### 1. Clonar el repositorio
 
-git clone https://github.com/tu-usuario/video-to-mp3-extractor.git
-cd video-to-mp3-extractor
+git clone daniela-alexander/video-audio-converter
+cd video-audio-converter
 
 ### 2. Iniciar el Backend (Servidor Express)
 
@@ -94,7 +94,3 @@ video-to-mp3-extractor/
     └── vite.config.js
 
 ---
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia **MIT**. Consulta el archivo `LICENSE` para más detalles.
